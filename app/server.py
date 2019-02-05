@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
  
-export_file_url = 'https://drive.google.com/uc?export=download&id=1MTmXbt9BpZK4u4iyQBdieBVHVpjeNv-5'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1E32VujusymBl344ECga4dwWdnlIrrMBh'
 export_file_name = 'export.pkl'
 
 classes = ['watercolor', 'pencilsketch', 'chinesepainting']
